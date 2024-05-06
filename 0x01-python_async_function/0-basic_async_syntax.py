@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """ An asynchronous function """
 import asyncio
 import random
